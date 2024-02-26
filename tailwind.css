@@ -41,3 +41,11 @@
     --dot-progress: 100%
   }
 }
+
+
+/* custom */
+@media (min-width: 701px){
+  .loja.direito .col-img{
+    order: 2;
+  }
+} 
