@@ -15,6 +15,7 @@ export default function TituloDaPagina({ titulo, subtitulo,ativarCorDeFundo }: P
       )} 
     </div>
   );
+}
 
 export interface Props {
   titulo: string; 
