@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 export interface Props {
   titulo: string; 
   subtitulo?: string;  
@@ -16,7 +15,7 @@ export default function TituloDaPagina({ titulo, subtitulo,ativarCorDeFundo }: P
       )} 
     </div>
   );
-=======
+
 export interface Props {
   titulo: string; 
   subtitulo?: string;  
@@ -34,5 +33,4 @@ export default function TituloDaPagina({ titulo, subtitulo,ativarCorDeFundo }: P
       )} 
     </div>
   );
->>>>>>> 4bbab266017e8236bdd7cd451141d67397bcd609
 }
